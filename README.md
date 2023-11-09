@@ -1,6 +1,7 @@
 # UTN-Diplomatura-en-Python
 
 Repo de actividades que iré haciendo durante la Diplomatura en Python de la Universidad Tecnológica Nacional.
+
 La Diplomatura se compone de 3 cursos, a saber:
 - Python nivel Inicial.
 - Python nivel Intermedio.
