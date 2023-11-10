@@ -1,5 +1,4 @@
-# Diplomatura en Python
-### Universidad Tecnológica Nacional
+# Diplomatura en Python (UTN)
 
 Repo de actividades que iré haciendo durante la Diplomatura en Python de la Universidad Tecnológica Nacional.
 
